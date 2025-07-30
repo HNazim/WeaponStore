@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{82816421-258D-71BB-2E7A-768ED22F1A94}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Weapon Store/Scripts/GunData.cs">
+    <Files>
+      <File FileName="Assets/Weapon Store/Scripts/GunData.cs" Line="27" Column="1" />
+      <File FileName="Assets/Weapon Store/Scripts/GunStoreManager.cs" Line="58" Column="67" />
+      <File FileName="Assets/Weapon Store/Scripts/UIManager.cs" Line="56" Column="120" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4c2b1f49-0f82-4f33-8555-9aeb210a45ee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
